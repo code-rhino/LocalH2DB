@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.zipcode</groupId>
-    <artifactId>local-h2-server</artifactId>
+    <artifactId>springh2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>local-h2-server</name>
-    <description>Demo project for Spring Boot</description>
+    <name>springh2</name>
+    <description>Spring H2 Server</description>
 
     <properties>
         <java.version>1.8</java.version>
